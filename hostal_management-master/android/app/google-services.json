@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283681557217",
+    "project_id": "blueberry-c6bde",
+    "storage_bucket": "blueberry-c6bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283681557217:android:e36a45dfc44c7f1d0845a0",
+        "android_client_info": {
+          "package_name": "com.example.fapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283681557217-fp587bmsa7o3tstlnb912t76fncuascp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTnF9ZLueOoeXD1ngLkVDyzRVCYT5pe9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283681557217-fp587bmsa7o3tstlnb912t76fncuascp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
